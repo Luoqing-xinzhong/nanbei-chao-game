@@ -1,0 +1,1453 @@
+{
+    "description": "城市配置文件",
+    "fields": {
+        "id": "城市唯一ID",
+        "x": "地图坐标X",
+        "y": "地图坐标Y",
+        "region_id": "地区ID",
+        "capital": "是否首府",
+        "defense": "城防值"
+    },
+    "cities": [
+        {
+            "id": 1,
+            "name": "建康",
+            "x": 2030,
+            "y": 760,
+            "region_id": 1,
+            "region": "扬州",
+            "capital": true,
+            "defense": 50
+        },
+        {
+            "id": 2,
+            "name": "京口",
+            "x": 2081,
+            "y": 760,
+            "region_id": 1,
+            "region": "扬州",
+            "capital": false,
+            "defense": 50
+        },
+        {
+            "id": 3,
+            "name": "句容",
+            "x": 2053,
+            "y": 788,
+            "region_id": 1,
+            "region": "扬州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 4,
+            "name": "姑孰",
+            "x": 1995,
+            "y": 809,
+            "region_id": 1,
+            "region": "扬州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 5,
+            "name": "娄县",
+            "x": 2184,
+            "y": 804,
+            "region_id": 1,
+            "region": "扬州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 6,
+            "name": "海盐",
+            "x": 2196,
+            "y": 871,
+            "region_id": 1,
+            "region": "扬州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 7,
+            "name": "山阴",
+            "x": 2170,
+            "y": 923,
+            "region_id": 1,
+            "region": "扬州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 8,
+            "name": "上虞",
+            "x": 2203,
+            "y": 935,
+            "region_id": 1,
+            "region": "扬州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 9,
+            "name": "句章",
+            "x": 2249,
+            "y": 928,
+            "region_id": 1,
+            "region": "扬州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 10,
+            "name": "临海",
+            "x": 2232,
+            "y": 1018,
+            "region_id": 1,
+            "region": "扬州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 11,
+            "name": "东阳",
+            "x": 2088,
+            "y": 1005,
+            "region_id": 1,
+            "region": "扬州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 12,
+            "name": "建安",
+            "x": 2007,
+            "y": 1157,
+            "region_id": 1,
+            "region": "扬州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 13,
+            "name": "原丰",
+            "x": 2049,
+            "y": 1299,
+            "region_id": 1,
+            "region": "扬州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 14,
+            "name": "雷池",
+            "x": 1887,
+            "y": 901,
+            "region_id": 1,
+            "region": "扬州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 15,
+            "name": "桑落洲",
+            "x": 1873,
+            "y": 920,
+            "region_id": 1,
+            "region": "扬州",
+            "capital": false,
+            "defense": 0
+        },
+        {
+            "id": 16,
+            "name": "历阳",
+            "x": 1982,
+            "y": 792,
+            "region_id": 2,
+            "region": "淮南地区",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 17,
+            "name": "广陵",
+            "x": 2062,
+            "y": 741,
+            "region_id": 2,
+            "region": "淮南地区",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 18,
+            "name": "淮巢运河",
+            "x": 1851,
+            "y": 756,
+            "region_id": 2,
+            "region": "淮南地区",
+            "capital": false,
+            "defense": 0
+        },
+        {
+            "id": 19,
+            "name": "颍口",
+            "x": 1839,
+            "y": 712,
+            "region_id": 2,
+            "region": "淮南地区",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 20,
+            "name": "寿春",
+            "x": 1893,
+            "y": 709,
+            "region_id": 2,
+            "region": "淮南地区",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 21,
+            "name": "涡口",
+            "x": 1921,
+            "y": 679,
+            "region_id": 2,
+            "region": "淮南地区",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 22,
+            "name": "淮陵",
+            "x": 1956,
+            "y": 671,
+            "region_id": 2,
+            "region": "淮南地区",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 23,
+            "name": "山阳",
+            "x": 2039,
+            "y": 608,
+            "region_id": 2,
+            "region": "淮南地区",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 24,
+            "name": "合肥",
+            "x": 1938,
+            "y": 775,
+            "region_id": 2,
+            "region": "淮南地区",
+            "capital": true,
+            "defense": 50
+        },
+        {
+            "id": 25,
+            "name": "南昌",
+            "x": 1800,
+            "y": 1052,
+            "region_id": 3,
+            "region": "江州",
+            "capital": true,
+            "defense": 50
+        },
+        {
+            "id": 26,
+            "name": "寻阳",
+            "x": 1826,
+            "y": 949,
+            "region_id": 3,
+            "region": "江州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 27,
+            "name": "峥嵘洲",
+            "x": 1762,
+            "y": 908,
+            "region_id": 3,
+            "region": "江州",
+            "capital": false,
+            "defense": 0
+        },
+        {
+            "id": 28,
+            "name": "鄱阳",
+            "x": 1880,
+            "y": 1020,
+            "region_id": 3,
+            "region": "江州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 29,
+            "name": "余干",
+            "x": 1918,
+            "y": 1031,
+            "region_id": 3,
+            "region": "江州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 30,
+            "name": "五亩峤",
+            "x": 1994,
+            "y": 1029,
+            "region_id": 3,
+            "region": "江州",
+            "capital": false,
+            "defense": 0
+        },
+        {
+            "id": 31,
+            "name": "庐陵",
+            "x": 1795,
+            "y": 1197,
+            "region_id": 3,
+            "region": "江州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 32,
+            "name": "章贡",
+            "x": 1802,
+            "y": 1258,
+            "region_id": 3,
+            "region": "江州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 33,
+            "name": "襄阳",
+            "x": 1490,
+            "y": 740,
+            "region_id": 4,
+            "region": "南雍州",
+            "capital": true,
+            "defense": 50
+        },
+        {
+            "id": 34,
+            "name": "樊城",
+            "x": 1509,
+            "y": 730,
+            "region_id": 4,
+            "region": "南雍州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 35,
+            "name": "乐乡",
+            "x": 1509,
+            "y": 812,
+            "region_id": 4,
+            "region": "南雍州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 36,
+            "name": "南阳",
+            "x": 1535,
+            "y": 677,
+            "region_id": 4,
+            "region": "南雍州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 37,
+            "name": "枣阳",
+            "x": 1562,
+            "y": 748,
+            "region_id": 4,
+            "region": "南雍州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 38,
+            "name": "随城",
+            "x": 1605,
+            "y": 773,
+            "region_id": 4,
+            "region": "南雍州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 39,
+            "name": "武胜关",
+            "x": 1659,
+            "y": 776,
+            "region_id": 4,
+            "region": "南雍州",
+            "capital": false,
+            "defense": 70
+        },
+        {
+            "id": 40,
+            "name": "义阳",
+            "x": 1674,
+            "y": 724,
+            "region_id": 4,
+            "region": "南雍州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 41,
+            "name": "淅川",
+            "x": 1431,
+            "y": 621,
+            "region_id": 4,
+            "region": "南雍州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 42,
+            "name": "鲁阳关",
+            "x": 1579,
+            "y": 631,
+            "region_id": 4,
+            "region": "南雍州",
+            "capital": false,
+            "defense": 70
+        },
+        {
+            "id": 43,
+            "name": "夏口",
+            "x": 1701,
+            "y": 882,
+            "region_id": 5,
+            "region": "郢州",
+            "capital": true,
+            "defense": 20
+        },
+        {
+            "id": 44,
+            "name": "竟陵",
+            "x": 1584,
+            "y": 863,
+            "region_id": 5,
+            "region": "郢州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 45,
+            "name": "安陆",
+            "x": 1654,
+            "y": 818,
+            "region_id": 5,
+            "region": "郢州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 46,
+            "name": "江陵",
+            "x": 1489,
+            "y": 952,
+            "region_id": 6,
+            "region": "荆州",
+            "capital": true,
+            "defense": 50
+        },
+        {
+            "id": 47,
+            "name": "枝江",
+            "x": 1451,
+            "y": 921,
+            "region_id": 6,
+            "region": "荆州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 48,
+            "name": "夷陵",
+            "x": 1387,
+            "y": 876,
+            "region_id": 6,
+            "region": "荆州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 49,
+            "name": "当阳",
+            "x": 1459,
+            "y": 856,
+            "region_id": 6,
+            "region": "荆州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 50,
+            "name": "永宁",
+            "x": 1532,
+            "y": 857,
+            "region_id": 6,
+            "region": "荆州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 51,
+            "name": "秭归",
+            "x": 1326,
+            "y": 879,
+            "region_id": 6,
+            "region": "荆州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 53,
+            "name": "汉中",
+            "x": 1045,
+            "y": 667,
+            "region_id": 7,
+            "region": "梁州",
+            "capital": true,
+            "defense": 20
+        },
+        {
+            "id": 54,
+            "name": "阳平关",
+            "x": 947,
+            "y": 659,
+            "region_id": 7,
+            "region": "梁州",
+            "capital": false,
+            "defense": 70
+        },
+        {
+            "id": 55,
+            "name": "西城县",
+            "x": 1215,
+            "y": 682,
+            "region_id": 7,
+            "region": "梁州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 56,
+            "name": "上庸",
+            "x": 1337,
+            "y": 688,
+            "region_id": 7,
+            "region": "梁州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 52,
+            "name": "巫县",
+            "x": 1253,
+            "y": 860,
+            "region_id": 8,
+            "region": "益州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 57,
+            "name": "成都",
+            "x": 765,
+            "y": 899,
+            "region_id": 8,
+            "region": "益州",
+            "capital": true,
+            "defense": 50
+        },
+        {
+            "id": 58,
+            "name": "平模",
+            "x": 772,
+            "y": 960,
+            "region_id": 8,
+            "region": "益州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 59,
+            "name": "广汉",
+            "x": 809,
+            "y": 858,
+            "region_id": 8,
+            "region": "益州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 60,
+            "name": "涪城",
+            "x": 862,
+            "y": 813,
+            "region_id": 8,
+            "region": "益州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 61,
+            "name": "剑阁",
+            "x": 895,
+            "y": 739,
+            "region_id": 8,
+            "region": "益州",
+            "capital": false,
+            "defense": 70
+        },
+        {
+            "id": 62,
+            "name": "江油关",
+            "x": 1005,
+            "y": 811,
+            "region_id": 8,
+            "region": "益州",
+            "capital": false,
+            "defense": 70
+        },
+        {
+            "id": 63,
+            "name": "江州",
+            "x": 1046,
+            "y": 1014,
+            "region_id": 8,
+            "region": "益州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 64,
+            "name": "长沙",
+            "x": 1567,
+            "y": 1124,
+            "region_id": 9,
+            "region": "湘州",
+            "capital": true,
+            "defense": 50
+        },
+        {
+            "id": 65,
+            "name": "巴陵",
+            "x": 1575,
+            "y": 1015,
+            "region_id": 9,
+            "region": "湘州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 66,
+            "name": "零陵",
+            "x": 1459,
+            "y": 1202,
+            "region_id": 9,
+            "region": "湘州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 67,
+            "name": "桂阳",
+            "x": 1575,
+            "y": 1275,
+            "region_id": 9,
+            "region": "湘州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 68,
+            "name": "衡阳",
+            "x": 1556,
+            "y": 1188,
+            "region_id": 9,
+            "region": "湘州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 69,
+            "name": "番禺",
+            "x": 1625,
+            "y": 1488,
+            "region_id": 10,
+            "region": "广州",
+            "capital": true,
+            "defense": 20
+        },
+        {
+            "id": 70,
+            "name": "中宿",
+            "x": 1613,
+            "y": 1419,
+            "region_id": 10,
+            "region": "广州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 71,
+            "name": "曲江",
+            "x": 1673,
+            "y": 1325,
+            "region_id": 10,
+            "region": "广州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 72,
+            "name": "横浦关",
+            "x": 1710,
+            "y": 1272,
+            "region_id": 10,
+            "region": "广州",
+            "capital": false,
+            "defense": 70
+        },
+        {
+            "id": 73,
+            "name": "龙编",
+            "x": 1036,
+            "y": 1642,
+            "region_id": 11,
+            "region": "交州",
+            "capital": true,
+            "defense": 20
+        },
+        {
+            "id": 74,
+            "name": "合浦",
+            "x": 1323,
+            "y": 1584,
+            "region_id": 11,
+            "region": "交州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 75,
+            "name": "苍梧",
+            "x": 1434,
+            "y": 1434,
+            "region_id": 11,
+            "region": "交州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 76,
+            "name": "西南地区",
+            "x": 1251,
+            "y": 1257,
+            "region_id": 12,
+            "region": "西南地区",
+            "capital": true,
+            "defense": 50
+        },
+        {
+            "id": 77,
+            "name": "洛阳",
+            "x": 1530,
+            "y": 489,
+            "region_id": 13,
+            "region": "中原地区",
+            "capital": true,
+            "defense": 50
+        },
+        {
+            "id": 78,
+            "name": "伊阙关",
+            "x": 1515,
+            "y": 534,
+            "region_id": 13,
+            "region": "中原地区",
+            "capital": false,
+            "defense": 70
+        },
+        {
+            "id": 79,
+            "name": "轘辕关",
+            "x": 1581,
+            "y": 527,
+            "region_id": 13,
+            "region": "中原地区",
+            "capital": false,
+            "defense": 70
+        },
+        {
+            "id": 80,
+            "name": "虎牢关",
+            "x": 1650,
+            "y": 476,
+            "region_id": 13,
+            "region": "中原地区",
+            "capital": false,
+            "defense": 70
+        },
+        {
+            "id": 81,
+            "name": "仓垣",
+            "x": 1678,
+            "y": 473,
+            "region_id": 13,
+            "region": "中原地区",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 82,
+            "name": "滑台",
+            "x": 1691,
+            "y": 430,
+            "region_id": 13,
+            "region": "中原地区",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 83,
+            "name": "凉城",
+            "x": 1710,
+            "y": 410,
+            "region_id": 13,
+            "region": "中原地区",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 84,
+            "name": "野王",
+            "x": 1579,
+            "y": 445,
+            "region_id": 13,
+            "region": "中原地区",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 85,
+            "name": "函谷关",
+            "x": 1481,
+            "y": 484,
+            "region_id": 13,
+            "region": "中原地区",
+            "capital": false,
+            "defense": 70
+        },
+        {
+            "id": 86,
+            "name": "许昌",
+            "x": 1678,
+            "y": 525,
+            "region_id": 13,
+            "region": "中原地区",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 87,
+            "name": "淮阳",
+            "x": 1723,
+            "y": 560,
+            "region_id": 14,
+            "region": "淮北地区",
+            "capital": true,
+            "defense": 20
+        },
+        {
+            "id": 88,
+            "name": "太康",
+            "x": 1749,
+            "y": 548,
+            "region_id": 14,
+            "region": "淮北地区",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 89,
+            "name": "雎阳",
+            "x": 1782,
+            "y": 528,
+            "region_id": 14,
+            "region": "淮北地区",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 90,
+            "name": "宿州",
+            "x": 1909,
+            "y": 562,
+            "region_id": 14,
+            "region": "淮北地区",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 91,
+            "name": "蕲县",
+            "x": 1884,
+            "y": 603,
+            "region_id": 14,
+            "region": "淮北地区",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 92,
+            "name": "涡阳",
+            "x": 1833,
+            "y": 614,
+            "region_id": 14,
+            "region": "淮北地区",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 93,
+            "name": "汝阴",
+            "x": 1791,
+            "y": 636,
+            "region_id": 14,
+            "region": "淮北地区",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 94,
+            "name": "新蔡",
+            "x": 1673,
+            "y": 609,
+            "region_id": 14,
+            "region": "淮北地区",
+            "capital": false,
+            "defense": 50
+        },
+        {
+            "id": 95,
+            "name": "彭城",
+            "x": 1921,
+            "y": 547,
+            "region_id": 15,
+            "region": "徐州",
+            "capital": true,
+            "defense": 20
+        },
+        {
+            "id": 96,
+            "name": "小沛",
+            "x": 1910,
+            "y": 510,
+            "region_id": 15,
+            "region": "徐州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 97,
+            "name": "梁父",
+            "x": 1940,
+            "y": 434,
+            "region_id": 15,
+            "region": "徐州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 98,
+            "name": "琅邪",
+            "x": 1983,
+            "y": 447,
+            "region_id": 15,
+            "region": "徐州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 99,
+            "name": "兰陵",
+            "x": 1980,
+            "y": 494,
+            "region_id": 15,
+            "region": "徐州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 100,
+            "name": "下邳",
+            "x": 1974,
+            "y": 565,
+            "region_id": 15,
+            "region": "徐州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 101,
+            "name": "广固",
+            "x": 1981,
+            "y": 302,
+            "region_id": 16,
+            "region": "青州",
+            "capital": true,
+            "defense": 20
+        },
+        {
+            "id": 102,
+            "name": "穆棱关",
+            "x": 2026,
+            "y": 315,
+            "region_id": 16,
+            "region": "青州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 103,
+            "name": "临朐",
+            "x": 2057,
+            "y": 304,
+            "region_id": 16,
+            "region": "青州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 104,
+            "name": "莒城",
+            "x": 2018,
+            "y": 410,
+            "region_id": 16,
+            "region": "青州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 105,
+            "name": "历城",
+            "x": 1879,
+            "y": 301,
+            "region_id": 16,
+            "region": "青州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 106,
+            "name": "巨野泽",
+            "x": 1815,
+            "y": 418,
+            "region_id": 16,
+            "region": "青州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 107,
+            "name": "邺城",
+            "x": 1680,
+            "y": 348,
+            "region_id": 17,
+            "region": "冀州",
+            "capital": true,
+            "defense": 50
+        },
+        {
+            "id": 108,
+            "name": "博平",
+            "x": 1783,
+            "y": 335,
+            "region_id": 17,
+            "region": "冀州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 109,
+            "name": "滏口关",
+            "x": 1648,
+            "y": 288,
+            "region_id": 17,
+            "region": "冀州",
+            "capital": false,
+            "defense": 70
+        },
+        {
+            "id": 110,
+            "name": "平原",
+            "x": 1824,
+            "y": 263,
+            "region_id": 17,
+            "region": "冀州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 111,
+            "name": "常山",
+            "x": 1686,
+            "y": 209,
+            "region_id": 17,
+            "region": "冀州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 112,
+            "name": "信都",
+            "x": 1760,
+            "y": 218,
+            "region_id": 17,
+            "region": "冀州",
+            "capital": false,
+            "defense": 50
+        },
+        {
+            "id": 113,
+            "name": "中山",
+            "x": 1701,
+            "y": 176,
+            "region_id": 17,
+            "region": "冀州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 114,
+            "name": "苇泽关",
+            "x": 1635,
+            "y": 232,
+            "region_id": 17,
+            "region": "冀州",
+            "capital": false,
+            "defense": 70
+        },
+        {
+            "id": 115,
+            "name": "蓟",
+            "x": 1773,
+            "y": 47,
+            "region_id": 18,
+            "region": "幽州",
+            "capital": true,
+            "defense": 50
+        },
+        {
+            "id": 116,
+            "name": "铁关",
+            "x": 1655,
+            "y": 107,
+            "region_id": 18,
+            "region": "幽州",
+            "capital": false,
+            "defense": 70
+        },
+        {
+            "id": 117,
+            "name": "平城",
+            "x": 1510,
+            "y": 42,
+            "region_id": 19,
+            "region": "并州",
+            "capital": true,
+            "defense": 50
+        },
+        {
+            "id": 118,
+            "name": "井坪关",
+            "x": 1467,
+            "y": 58,
+            "region_id": 19,
+            "region": "并州",
+            "capital": false,
+            "defense": 70
+        },
+        {
+            "id": 119,
+            "name": "雁门关",
+            "x": 1472,
+            "y": 126,
+            "region_id": 19,
+            "region": "并州",
+            "capital": false,
+            "defense": 70
+        },
+        {
+            "id": 120,
+            "name": "九原",
+            "x": 1480,
+            "y": 187,
+            "region_id": 19,
+            "region": "并州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 121,
+            "name": "晋阳",
+            "x": 1478,
+            "y": 233,
+            "region_id": 19,
+            "region": "并州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 122,
+            "name": "平阳",
+            "x": 1393,
+            "y": 330,
+            "region_id": 19,
+            "region": "并州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 123,
+            "name": "潞城",
+            "x": 1526,
+            "y": 321,
+            "region_id": 19,
+            "region": "并州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 124,
+            "name": "壶关",
+            "x": 1552,
+            "y": 356,
+            "region_id": 19,
+            "region": "并州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 125,
+            "name": "高都",
+            "x": 1506,
+            "y": 382,
+            "region_id": 19,
+            "region": "并州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 126,
+            "name": "蒲坂",
+            "x": 1320,
+            "y": 477,
+            "region_id": 19,
+            "region": "并州",
+            "capital": false,
+            "defense": 20
+        },
+        {
+            "id": 127,
+            "name": "长安",
+            "x": 1252,
+            "y": 521,
+            "region_id": 20,
+            "region": "北雍州",
+            "capital": true,
+            "defense": 50
+        },
+{
+    "id": 128,
+    "name": "蓝田",
+    "x": 1296,
+    "y": 535,
+    "region_id": 20,
+    "region": "北雍州",
+    "capital": false,
+    "defense": 20
+},
+{
+    "id": 129,
+    "name": "潼关",
+    "x": 1329,
+    "y": 497,
+    "region_id": 20,
+    "region": "北雍州",
+    "capital": false,
+    "defense": 70
+},
+{
+    "id": 130,
+    "name": "武关",
+    "x": 1327,
+    "y": 567,
+    "region_id": 20,
+    "region": "北雍州",
+    "capital": false,
+    "defense": 70
+},
+{
+    "id": 131,
+    "name": "杏城",
+    "x": 1226,
+    "y": 419,
+    "region_id": 20,
+    "region": "北雍州",
+    "capital": false,
+    "defense": 20
+},
+{
+    "id": 132,
+    "name": "子午谷",
+    "x": 1238,
+    "y": 559,
+    "region_id": 20,
+    "region": "北雍州",
+    "capital": false,
+    "defense": 70
+},
+{
+    "id": 133,
+    "name": "涝谷",
+    "x": 1151,
+    "y": 583,
+    "region_id": 20,
+    "region": "北雍州",
+    "capital": false,
+    "defense": 70
+},
+{
+    "id": 134,
+    "name": "斜谷",
+    "x": 1108,
+    "y": 581,
+    "region_id": 20,
+    "region": "北雍州",
+    "capital": false,
+    "defense": 70
+},
+{
+    "id": 135,
+    "name": "陈仓",
+    "x": 1056,
+    "y": 575,
+    "region_id": 20,
+    "region": "北雍州",
+    "capital": false,
+    "defense": 50
+},
+{
+    "id": 136,
+    "name": "秦州",
+    "x": 991,
+    "y": 553,
+    "region_id": 22,
+    "region": "陇西地区",
+    "capital": false,
+    "defense": 20
+},
+{
+    "id": 137,
+    "name": "萧关",
+    "x": 991,
+    "y": 392,
+    "region_id": 20,
+    "region": "北雍州",
+    "capital": false,
+    "defense": 70
+},
+{
+    "id": 138,
+    "name": "统万城",
+    "x": 1175,
+    "y": 162,
+    "region_id": 21,
+    "region": "夏地区",
+    "capital": true,
+    "defense": 50
+},
+{
+    "id": 139,
+    "name": "丰林城",
+    "x": 1205,
+    "y": 302,
+    "region_id": 21,
+    "region": "夏地区",
+    "capital": false,
+    "defense": 20
+},
+{
+    "id": 140,
+    "name": "襄武",
+    "x": 890,
+    "y": 480,
+    "region_id": 22,
+    "region": "陇西地区",
+    "capital": false,
+    "defense": 20
+},
+{
+    "id": 141,
+    "name": "临夏",
+    "x": 669,
+    "y": 363,
+    "region_id": 22,
+    "region": "陇西地区",
+    "capital": true,
+    "defense": 50
+},
+        {
+            "id": 142,
+            "name": "辽西",
+            "x": 1881,
+            "y": 7,
+            "region_id": 23,
+            "region": "东北地区",
+            "capital": true,
+            "defense": 20
+        },
+        {
+            "id": 143,
+            "name": "仇池",
+            "x": 995,
+            "y": 609,
+            "region_id": 24,
+            "region": "仇池",
+            "capital": true,
+            "defense": 20
+        },
+        {
+            "id": 144,
+            "name": "泗沂渡口",
+            "x": 1903,
+            "y": 446,
+            "region_id": 16,
+            "region": "青州",
+            "capital": false,
+            "defense": 0
+        }
+    ]
+}

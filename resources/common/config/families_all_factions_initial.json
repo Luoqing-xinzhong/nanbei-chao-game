@@ -1,0 +1,223 @@
+[
+    {
+        "id": 3,
+        "name": "彭城刘氏",
+        "members": [
+            3,
+            4,
+            5,
+            6,
+            18,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39
+        ],
+        "government_opinion": 1,
+        "leader": 1,
+        "family_type": 100
+    },
+    {
+        "id": 4,
+        "name": "河内司马氏",
+        "members": [],
+        "government_opinion": 0,
+        "leader": 5,
+        "family_type": 0
+    },
+    {
+        "id": 5,
+        "name": "琅琊王氏",
+        "members": [
+            7,
+            8,
+            9,
+            19
+        ],
+        "government_opinion": 1,
+        "leader": 5,
+        "family_type": 20
+    },
+    {
+        "id": 6,
+        "name": "陈郡谢氏",
+        "members": [
+            10,
+            11,
+            12
+        ],
+        "government_opinion": 1,
+        "leader": 8,
+        "family_type": 20
+    },
+    {
+        "id": 7,
+        "name": "谯郡桓氏",
+        "members": [
+            13,
+            14,
+            15
+        ],
+        "government_opinion": 1,
+        "leader": 11,
+        "family_type": -30
+    },
+    {
+        "id": 8,
+        "name": "颍川何氏",
+        "members": [
+            16,
+            17
+        ],
+        "government_opinion": 1,
+        "leader": 14,
+        "family_type": 30
+    },
+    {
+        "id": 20,
+        "name": "拓跋氏",
+        "members": [
+            40,
+            41,
+            42,
+            43,
+            44
+        ],
+        "government_opinion": 0,
+        "leader": 20,
+        "family_type": 80
+    },
+    {
+        "id": 21,
+        "name": "桓氏皇族",
+        "members": [
+            45,
+            46,
+            47
+        ],
+        "government_opinion": 0,
+        "leader": 21,
+        "family_type": 80
+    },
+    {
+        "id": 22,
+        "name": "谯氏",
+        "members": [
+            48,
+            49,
+            50
+        ],
+        "government_opinion": 0,
+        "leader": 22,
+        "family_type": 80
+    },
+    {
+        "id": 23,
+        "name": "卢氏",
+        "members": [
+            51,
+            52,
+            53
+        ],
+        "government_opinion": 0,
+        "leader": 23,
+        "family_type": 80
+    },
+    {
+        "id": 24,
+        "name": "西南夷部族",
+        "members": [
+            54,
+            55
+        ],
+        "government_opinion": 0,
+        "leader": 24,
+        "family_type": 50
+    },
+    {
+        "id": 25,
+        "name": "冯氏",
+        "members": [
+            56,
+            57,
+            58
+        ],
+        "government_opinion": 0,
+        "leader": 25,
+        "family_type": 80
+    },
+    {
+        "id": 26,
+        "name": "慕容氏",
+        "members": [
+            59,
+            60,
+            61
+        ],
+        "government_opinion": 0,
+        "leader": 26,
+        "family_type": 80
+    },
+    {
+        "id": 27,
+        "name": "姚氏",
+        "members": [
+            62,
+            63,
+            64
+        ],
+        "government_opinion": 0,
+        "leader": 27,
+        "family_type": 80
+    },
+    {
+        "id": 28,
+        "name": "吕氏",
+        "members": [
+            65,
+            66
+        ],
+        "government_opinion": 0,
+        "leader": 28,
+        "family_type": 50
+    },
+    {
+        "id": 29,
+        "name": "杨氏",
+        "members": [
+            67,
+            68
+        ],
+        "government_opinion": 0,
+        "leader": 29,
+        "family_type": 70
+    },
+    {
+        "id": 30,
+        "name": "赫连氏",
+        "members": [
+            69,
+            70,
+            71
+        ],
+        "government_opinion": 0,
+        "leader": 69,
+        "family_type": 80
+    }
+]

@@ -1,0 +1,557 @@
+[
+    {
+        "id":  1,
+        "color":  "blue",
+        "name":  "宋",
+        "capital":  1,
+        "initial_army_commander":  21,
+        "militia":  269544,
+        "reserve_army":  4897,
+        "stability":  28,
+        "war_support":  75,
+        "internal":  {
+                         "emperor":  21,
+                         "lu_shangshu":  null,
+                         "shangshu_ling":  null,
+                         "left_shangshu":  11,
+                         "right_shangshu":  94,
+                         "zhongshu_ling":  null,
+                         "zhongshu_shilang":  52,
+                         "shizhong":  null,
+                         "sanqi_changshi":  57,
+                         "sanqi_shilang1":  null,
+                         "sanqi_shilang2":  null,
+                         "grand_general":  21,
+                         "imperial_guard_commander":  null,
+                         "inner_court":  [
+
+                                         ],
+                         "empress_dowager":  null,
+                         "empress":  null,
+                         "noble_consort":  null,
+                         "shuyi":  null,
+                         "crown_prince":  24,
+                         "princes":  [
+
+                                     ]
+                     },
+        "is_main":  true,
+        "opinion_of_main":  100,
+        "relation_with_main":  "self",
+        "regions":  [
+                        "扬州",
+                        "江州",
+                        "南雍州",
+                        "郢州",
+                        "荆州",
+                        "湘州",
+                        "益州",
+                        "梁州",
+                        "淮南地区",
+                        "青州",
+                        "徐州",
+                        "广州",
+                        "交州",
+                        "西南地区",
+                        "中原地区",
+                        "淮北地区"
+                    ]
+    },
+    {
+        "id":  2,
+        "color":  "darkblue",
+        "name":  "魏",
+        "capital":  117,
+        "militia":  68356,
+        "reserve_army":  0,
+        "stability":  27,
+        "war_support":  0,
+        "internal":  {
+                         "emperor":  95,
+                         "lu_shangshu":  null,
+                         "shangshu_ling":  null,
+                         "left_shangshu":  null,
+                         "right_shangshu":  null,
+                         "zhongshu_ling":  null,
+                         "zhongshu_shilang":  null,
+                         "shizhong":  null,
+                         "sanqi_changshi":  null,
+                         "sanqi_shilang1":  null,
+                         "sanqi_shilang2":  null,
+                         "grand_general":  null,
+                         "imperial_guard_commander":  null,
+                         "inner_court":  [
+
+                                         ],
+                         "empress_dowager":  null,
+                         "empress":  null,
+                         "noble_consort":  null,
+                         "shuyi":  null,
+                         "crown_prince":  null,
+                         "princes":  [
+
+                                     ]
+                     },
+        "is_main":  false,
+        "opinion_of_main":  -30,
+        "relation_with_main":  "正常",
+        "regions":  [
+                        "冀州",
+                        "幽州",
+                        "并州"
+                    ],
+        "authority":  37800
+    },
+    {
+        "id":  3,
+        "color":  "orange",
+        "name":  "桓楚",
+        "capital":  46,
+        "militia":  1073,
+        "reserve_army":  0,
+        "stability":  60,
+        "war_support":  75,
+        "internal":  {
+                         "emperor":  null,
+                         "lu_shangshu":  null,
+                         "shangshu_ling":  null,
+                         "left_shangshu":  null,
+                         "right_shangshu":  null,
+                         "zhongshu_ling":  null,
+                         "zhongshu_shilang":  null,
+                         "shizhong":  null,
+                         "sanqi_changshi":  null,
+                         "sanqi_shilang1":  null,
+                         "sanqi_shilang2":  null,
+                         "grand_general":  null,
+                         "imperial_guard_commander":  null,
+                         "inner_court":  [
+
+                                         ],
+                         "empress_dowager":  null,
+                         "empress":  null,
+                         "noble_consort":  null,
+                         "shuyi":  null,
+                         "crown_prince":  null,
+                         "princes":  [
+
+                                     ]
+                     },
+        "is_main":  false,
+        "opinion_of_main":  -50,
+        "relation_with_main":  "灭亡",
+        "regions":  [
+
+                    ],
+        "authority":  1300
+    },
+    {
+        "id":  4,
+        "color":  "green",
+        "name":  "谯蜀",
+        "capital":  57,
+        "militia":  2042,
+        "reserve_army":  0,
+        "stability":  52,
+        "war_support":  20,
+        "internal":  {
+                         "emperor":  null,
+                         "lu_shangshu":  null,
+                         "shangshu_ling":  null,
+                         "left_shangshu":  null,
+                         "right_shangshu":  null,
+                         "zhongshu_ling":  null,
+                         "zhongshu_shilang":  null,
+                         "shizhong":  null,
+                         "sanqi_changshi":  null,
+                         "sanqi_shilang1":  null,
+                         "sanqi_shilang2":  null,
+                         "grand_general":  null,
+                         "imperial_guard_commander":  null,
+                         "inner_court":  [
+
+                                         ],
+                         "empress_dowager":  null,
+                         "empress":  null,
+                         "noble_consort":  null,
+                         "shuyi":  null,
+                         "crown_prince":  null,
+                         "princes":  [
+
+                                     ]
+                     },
+        "is_main":  false,
+        "opinion_of_main":  -40,
+        "relation_with_main":  "灭亡",
+        "regions":  [
+
+                    ],
+        "authority":  6000
+    },
+    {
+        "id":  5,
+        "color":  "white",
+        "name":  "卢循",
+        "capital":  69,
+        "militia":  4949,
+        "reserve_army":  0,
+        "stability":  0,
+        "war_support":  0,
+        "internal":  {
+                         "emperor":  null,
+                         "lu_shangshu":  null,
+                         "shangshu_ling":  null,
+                         "left_shangshu":  null,
+                         "right_shangshu":  null,
+                         "zhongshu_ling":  null,
+                         "zhongshu_shilang":  null,
+                         "shizhong":  null,
+                         "sanqi_changshi":  null,
+                         "sanqi_shilang1":  null,
+                         "sanqi_shilang2":  null,
+                         "grand_general":  null,
+                         "imperial_guard_commander":  null,
+                         "inner_court":  [
+
+                                         ],
+                         "empress_dowager":  null,
+                         "empress":  null,
+                         "noble_consort":  null,
+                         "shuyi":  null,
+                         "crown_prince":  null,
+                         "princes":  [
+
+                                     ]
+                     },
+        "is_main":  false,
+        "opinion_of_main":  0,
+        "relation_with_main":  "灭亡",
+        "regions":  [
+
+                    ],
+        "authority":  12000
+    },
+    {
+        "id":  6,
+        "color":  "brown",
+        "name":  "西南夷",
+        "capital":  76,
+        "militia":  2900,
+        "reserve_army":  0,
+        "stability":  22,
+        "war_support":  0,
+        "internal":  {
+                         "emperor":  null,
+                         "lu_shangshu":  null,
+                         "shangshu_ling":  null,
+                         "left_shangshu":  null,
+                         "right_shangshu":  null,
+                         "zhongshu_ling":  null,
+                         "zhongshu_shilang":  null,
+                         "shizhong":  null,
+                         "sanqi_changshi":  null,
+                         "sanqi_shilang1":  null,
+                         "sanqi_shilang2":  null,
+                         "grand_general":  null,
+                         "imperial_guard_commander":  null,
+                         "inner_court":  [
+
+                                         ],
+                         "empress_dowager":  null,
+                         "empress":  null,
+                         "noble_consort":  null,
+                         "shuyi":  null,
+                         "crown_prince":  null,
+                         "princes":  [
+
+                                     ]
+                     },
+        "is_main":  false,
+        "opinion_of_main":  -40,
+        "relation_with_main":  "灭亡",
+        "regions":  [
+
+                    ],
+        "authority":  14500
+    },
+    {
+        "id":  7,
+        "color":  "cyan",
+        "name":  "北燕",
+        "capital":  142,
+        "militia":  2678,
+        "reserve_army":  0,
+        "stability":  0,
+        "war_support":  0,
+        "internal":  {
+                         "emperor":  null,
+                         "lu_shangshu":  null,
+                         "shangshu_ling":  null,
+                         "left_shangshu":  null,
+                         "right_shangshu":  null,
+                         "zhongshu_ling":  null,
+                         "zhongshu_shilang":  null,
+                         "shizhong":  null,
+                         "sanqi_changshi":  null,
+                         "sanqi_shilang1":  null,
+                         "sanqi_shilang2":  null,
+                         "grand_general":  null,
+                         "imperial_guard_commander":  null,
+                         "inner_court":  [
+
+                                         ],
+                         "empress_dowager":  null,
+                         "empress":  null,
+                         "noble_consort":  null,
+                         "shuyi":  null,
+                         "crown_prince":  null,
+                         "princes":  [
+
+                                     ]
+                     },
+        "is_main":  false,
+        "opinion_of_main":  0,
+        "relation_with_main":  "中立",
+        "regions":  [
+                        "东北地区"
+                    ],
+        "authority":  41100
+    },
+    {
+        "id":  8,
+        "color":  "pink",
+        "name":  "南燕",
+        "capital":  101,
+        "militia":  5536,
+        "reserve_army":  0,
+        "stability":  70,
+        "war_support":  50,
+        "internal":  {
+                         "emperor":  null,
+                         "lu_shangshu":  null,
+                         "shangshu_ling":  null,
+                         "left_shangshu":  null,
+                         "right_shangshu":  null,
+                         "zhongshu_ling":  null,
+                         "zhongshu_shilang":  null,
+                         "shizhong":  null,
+                         "sanqi_changshi":  null,
+                         "sanqi_shilang1":  null,
+                         "sanqi_shilang2":  null,
+                         "grand_general":  null,
+                         "imperial_guard_commander":  null,
+                         "inner_court":  [
+
+                                         ],
+                         "empress_dowager":  null,
+                         "empress":  null,
+                         "noble_consort":  null,
+                         "shuyi":  null,
+                         "crown_prince":  null,
+                         "princes":  [
+
+                                     ]
+                     },
+        "is_main":  false,
+        "opinion_of_main":  0,
+        "relation_with_main":  "灭亡",
+        "regions":  [
+
+                    ],
+        "authority":  8600
+    },
+    {
+        "id":  9,
+        "color":  "darkgold",
+        "name":  "后秦",
+        "capital":  127,
+        "militia":  8477,
+        "reserve_army":  0,
+        "stability":  70,
+        "war_support":  50,
+        "internal":  {
+                         "emperor":  null,
+                         "lu_shangshu":  null,
+                         "shangshu_ling":  null,
+                         "left_shangshu":  null,
+                         "right_shangshu":  null,
+                         "zhongshu_ling":  null,
+                         "zhongshu_shilang":  null,
+                         "shizhong":  null,
+                         "sanqi_changshi":  null,
+                         "sanqi_shilang1":  null,
+                         "sanqi_shilang2":  null,
+                         "grand_general":  null,
+                         "imperial_guard_commander":  null,
+                         "inner_court":  [
+
+                                         ],
+                         "empress_dowager":  null,
+                         "empress":  null,
+                         "noble_consort":  null,
+                         "shuyi":  null,
+                         "crown_prince":  null,
+                         "princes":  [
+
+                                     ]
+                     },
+        "is_main":  false,
+        "opinion_of_main":  0,
+        "relation_with_main":  "灭亡",
+        "regions":  [
+
+                    ],
+        "authority":  12200
+    },
+    {
+        "id":  10,
+        "color":  "gray",
+        "name":  "北凉",
+        "capital":  141,
+        "militia":  3532,
+        "reserve_army":  0,
+        "stability":  22,
+        "war_support":  0,
+        "internal":  {
+                         "emperor":  null,
+                         "lu_shangshu":  null,
+                         "shangshu_ling":  null,
+                         "left_shangshu":  null,
+                         "right_shangshu":  null,
+                         "zhongshu_ling":  null,
+                         "zhongshu_shilang":  null,
+                         "shizhong":  null,
+                         "sanqi_changshi":  null,
+                         "sanqi_shilang1":  null,
+                         "sanqi_shilang2":  null,
+                         "grand_general":  null,
+                         "imperial_guard_commander":  null,
+                         "inner_court":  [
+
+                                         ],
+                         "empress_dowager":  null,
+                         "empress":  null,
+                         "noble_consort":  null,
+                         "shuyi":  null,
+                         "crown_prince":  null,
+                         "princes":  [
+
+                                     ]
+                     },
+        "is_main":  false,
+        "opinion_of_main":  0,
+        "relation_with_main":  "中立",
+        "regions":  [
+                        "陇西地区"
+                    ],
+        "authority":  40800
+    },
+    {
+        "id":  11,
+        "color":  "lightgreen",
+        "name":  "仇池",
+        "capital":  143,
+        "militia":  618,
+        "reserve_army":  0,
+        "stability":  0,
+        "war_support":  0,
+        "internal":  {
+                         "emperor":  null,
+                         "lu_shangshu":  null,
+                         "shangshu_ling":  null,
+                         "left_shangshu":  null,
+                         "right_shangshu":  null,
+                         "zhongshu_ling":  null,
+                         "zhongshu_shilang":  null,
+                         "shizhong":  null,
+                         "sanqi_changshi":  null,
+                         "sanqi_shilang1":  null,
+                         "sanqi_shilang2":  null,
+                         "grand_general":  null,
+                         "imperial_guard_commander":  null,
+                         "inner_court":  [
+
+                                         ],
+                         "empress_dowager":  null,
+                         "empress":  null,
+                         "noble_consort":  null,
+                         "shuyi":  null,
+                         "crown_prince":  null,
+                         "princes":  [
+
+                                     ]
+                     },
+        "is_main":  false,
+        "opinion_of_main":  0,
+        "relation_with_main":  "中立",
+        "regions":  [
+                        "仇池"
+                    ],
+        "authority":  41200
+    },
+    {
+        "id":  12,
+        "color":  "black",
+        "name":  "胡夏",
+        "capital":  138,
+        "militia":  2060,
+        "reserve_army":  0,
+        "stability":  0,
+        "war_support":  0,
+        "internal":  {
+                         "emperor":  96,
+                         "lu_shangshu":  null,
+                         "shangshu_ling":  null,
+                         "left_shangshu":  null,
+                         "right_shangshu":  null,
+                         "zhongshu_ling":  null,
+                         "zhongshu_shilang":  null,
+                         "shizhong":  null,
+                         "sanqi_changshi":  null,
+                         "sanqi_shilang1":  null,
+                         "sanqi_shilang2":  null,
+                         "grand_general":  null,
+                         "imperial_guard_commander":  null,
+                         "inner_court":  [
+
+                                         ],
+                         "empress_dowager":  null,
+                         "empress":  null,
+                         "noble_consort":  null,
+                         "shuyi":  null,
+                         "crown_prince":  null,
+                         "princes":  [
+
+                                     ]
+                     },
+        "is_main":  false,
+        "opinion_of_main":  0,
+        "relation_with_main":  "正常",
+        "regions":  [
+                        "夏地区",
+                        "北雍州"
+                    ],
+        "authority":  41200
+    },
+    {
+        "id":  13,
+        "name":  "王昙首叛军",
+        "color":  "black",
+        "is_main":  false,
+        "regions":  [
+
+                    ],
+        "capital":  24,
+        "stability":  25,
+        "war_support":  55,
+        "militia":  640,
+        "reserve_army":  0,
+        "opinion_of_main":  -100,
+        "relation_with_main":  "灭亡",
+        "internal":  {
+                         "emperor":  null,
+                         "grand_general":  12
+                     },
+        "authority":  1700
+    }
+]

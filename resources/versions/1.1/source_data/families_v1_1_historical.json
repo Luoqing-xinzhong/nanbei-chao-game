@@ -1,0 +1,310 @@
+[
+    {
+        "id": 3,
+        "name": "琅琊王氏",
+        "members": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "government_opinion": 15,
+        "leader": 8,
+        "family_type": 1
+    },
+    {
+        "id": 4,
+        "name": "高平檀氏",
+        "members": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+        ],
+        "government_opinion": 25,
+        "leader": 17,
+        "family_type": 2
+    },
+    {
+        "id": 5,
+        "name": "彭城刘氏-1",
+        "members": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+        ],
+        "government_opinion": 85,
+        "leader": 21,
+        "family_type": 2
+    },
+    {
+        "id": 6,
+        "name": "彭城刘氏-2",
+        "members": [
+            32,
+            33,
+            34
+        ],
+        "government_opinion": -10,
+        "leader": 33,
+        "family_type": 2
+    },
+    {
+        "id": 7,
+        "name": "彭城刘氏-3",
+        "members": [
+            35,
+            36
+        ],
+        "government_opinion": 20,
+        "leader": 36,
+        "family_type": 2
+    },
+    {
+        "id": 8,
+        "name": "彭城刘氏-4",
+        "members": [
+            37
+        ],
+        "government_opinion": 50,
+        "leader": 37,
+        "family_type": 2
+    },
+    {
+        "id": 9,
+        "name": "东莞刘氏",
+        "members": [
+            40
+        ],
+        "government_opinion": 90,
+        "leader": 40,
+        "family_type": 2
+    },
+    {
+        "id": 10,
+        "name": "敦煌索氏",
+        "members": [
+            41
+        ],
+        "government_opinion": 20,
+        "leader": 41,
+        "family_type": 2
+    },
+    {
+        "id": 11,
+        "name": "太原王氏",
+        "members": [
+            42
+        ],
+        "government_opinion": 30,
+        "leader": 42,
+        "family_type": 1
+    },
+    {
+        "id": 12,
+        "name": "北海王氏",
+        "members": [
+            43
+        ],
+        "government_opinion": 80,
+        "leader": 43,
+        "family_type": 2
+    },
+    {
+        "id": 13,
+        "name": "东海何氏",
+        "members": [
+            44
+        ],
+        "government_opinion": 80,
+        "leader": 44,
+        "family_type": 2
+    },
+    {
+        "id": 14,
+        "name": "沛郡朱氏",
+        "members": [
+            48,
+            49,
+            50
+        ],
+        "government_opinion": 80,
+        "leader": 49,
+        "family_type": 2
+    },
+    {
+        "id": 15,
+        "name": "颍川庾氏",
+        "members": [
+            51
+        ],
+        "government_opinion": 20,
+        "leader": 51,
+        "family_type": 1
+    },
+    {
+        "id": 16,
+        "name": "荥阳郑氏",
+        "members": [
+            52
+        ],
+        "government_opinion": 45,
+        "leader": 52,
+        "family_type": 1
+    },
+    {
+        "id": 17,
+        "name": "平昌孟氏",
+        "members": [
+            53,
+            54,
+            55
+        ],
+        "government_opinion": 75,
+        "leader": 54,
+        "family_type": 2
+    },
+    {
+        "id": 18,
+        "name": "会稽孙氏",
+        "members": [
+            56
+        ],
+        "government_opinion": 75,
+        "leader": 56,
+        "family_type": 2
+    },
+    {
+        "id": 19,
+        "name": "阳翟褚氏",
+        "members": [
+            57
+        ],
+        "government_opinion": 35,
+        "leader": 57,
+        "family_type": 1
+    },
+    {
+        "id": 20,
+        "name": "北地傅氏",
+        "members": [
+            58,
+            59
+        ],
+        "government_opinion": 65,
+        "leader": 58,
+        "family_type": 2
+    },
+    {
+        "id": 21,
+        "name": "陈郡谢氏",
+        "members": [
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73
+        ],
+        "government_opinion": 20,
+        "leader": 69,
+        "family_type": 1
+    },
+    {
+        "id": 22,
+        "name": "吴兴沈氏",
+        "members": [
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81
+        ],
+        "government_opinion": 70,
+        "leader": 76,
+        "family_type": 1
+    },
+    {
+        "id": 23,
+        "name": "河内司马氏",
+        "members": [
+            82,
+            83,
+            84,
+            85
+        ],
+        "government_opinion": 0,
+        "leader": 83,
+        "family_type": 0
+    },
+    {
+        "id": 24,
+        "name": "兰陵萧氏-1",
+        "members": [
+            86,
+            87,
+            88
+        ],
+        "government_opinion": 50,
+        "leader": 87,
+        "family_type": 2
+    },
+    {
+        "id": 25,
+        "name": "琅琊诸葛氏",
+        "members": [
+            89
+        ],
+        "government_opinion": 25,
+        "leader": 89,
+        "family_type": 2
+    },
+    {
+        "id": 26,
+        "name": "南燕慕容氏",
+        "members": [
+            45
+        ],
+        "government_opinion": 100,
+        "leader": 45,
+        "family_type": 0
+    },
+    {
+        "id": 27,
+        "name": "后秦姚氏",
+        "members": [
+            74
+        ],
+        "government_opinion": 100,
+        "leader": 74,
+        "family_type": 0
+    }
+]

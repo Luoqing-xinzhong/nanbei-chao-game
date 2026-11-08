@@ -1,0 +1,309 @@
+[
+    {
+        "id": 23,
+        "name": "河内司马氏",
+        "members": [
+            82,
+            83,
+            84,
+            85
+        ],
+        "government_opinion": 0,
+        "leader": 83,
+        "family_type": 2
+    },
+    {
+        "id": 31,
+        "name": "陈郡殷氏",
+        "members": [
+            99,
+            162,
+            201,
+            204
+        ],
+        "government_opinion": 0,
+        "leader": 201,
+        "family_type": 1
+    },
+    {
+        "id": 32,
+        "name": "会稽孔氏",
+        "members": [
+            100,
+            150,
+            157,
+            292
+        ],
+        "government_opinion": 0,
+        "leader": 100,
+        "family_type": 1
+    },
+    {
+        "id": 33,
+        "name": "庐江何氏",
+        "members": [
+            103,
+            164,
+            175
+        ],
+        "government_opinion": 0,
+        "leader": 175,
+        "family_type": 1
+    },
+    {
+        "id": 34,
+        "name": "太原孙氏",
+        "members": [
+            104
+        ],
+        "government_opinion": 0,
+        "leader": 104,
+        "family_type": 1
+    },
+    {
+        "id": 35,
+        "name": "吴郡张氏",
+        "members": [
+            105,
+            120,
+            143,
+            163,
+            170,
+            216,
+            234,
+            237,
+            297
+        ],
+        "government_opinion": 0,
+        "leader": 234,
+        "family_type": 1
+    },
+    {
+        "id": 37,
+        "name": "陈郡袁氏",
+        "members": [
+            108,
+            114,
+            146,
+            179,
+            255
+        ],
+        "government_opinion": 0,
+        "leader": 255,
+        "family_type": 1
+    },
+    {
+        "id": 38,
+        "name": "彭城到氏",
+        "members": [
+            113
+        ],
+        "government_opinion": 0,
+        "leader": 113,
+        "family_type": 1
+    },
+    {
+        "id": 39,
+        "name": "下邳赵氏",
+        "members": [
+            115,
+            293,
+            302
+        ],
+        "government_opinion": 0,
+        "leader": 115,
+        "family_type": 1
+    },
+    {
+        "id": 41,
+        "name": "顺阳范氏",
+        "members": [
+            117
+        ],
+        "government_opinion": 0,
+        "leader": 117,
+        "family_type": 1
+    },
+    {
+        "id": 43,
+        "name": "河东裴氏",
+        "members": [
+            174,
+            278
+        ],
+        "government_opinion": 0,
+        "leader": 174,
+        "family_type": 1
+    },
+    {
+        "id": 44,
+        "name": "吴兴江氏",
+        "members": [
+            149,
+            165,
+            181
+        ],
+        "government_opinion": 0,
+        "leader": 149,
+        "family_type": 1
+    },
+    {
+        "id": 45,
+        "name": "泰山羊氏",
+        "members": [
+            151,
+            169
+        ],
+        "government_opinion": 0,
+        "leader": 169,
+        "family_type": 1
+    },
+    {
+        "id": 46,
+        "name": "东莞臧氏",
+        "members": [
+            153,
+            184
+        ],
+        "government_opinion": 0,
+        "leader": 153,
+        "family_type": 1
+    },
+    {
+        "id": 47,
+        "name": "河东柳氏",
+        "members": [
+            191,
+            280
+        ],
+        "government_opinion": 0,
+        "leader": 280,
+        "family_type": 1
+    },
+    {
+        "id": 48,
+        "name": "琅琊颜氏",
+        "members": [
+            183,
+            187,
+            192
+        ],
+        "government_opinion": 0,
+        "leader": 183,
+        "family_type": 1
+    },
+    {
+        "id": 50,
+        "name": "清河崔氏",
+        "members": [
+            229,
+            246,
+            287
+        ],
+        "government_opinion": 0,
+        "leader": 229,
+        "family_type": 1
+    },
+    {
+        "id": 51,
+        "name": "河南长孙氏",
+        "members": [
+            210,
+            211,
+            212
+        ],
+        "government_opinion": 0,
+        "leader": 210,
+        "family_type": 1
+    },
+    {
+        "id": 53,
+        "name": "河南穆氏",
+        "members": [
+            214
+        ],
+        "government_opinion": 0,
+        "leader": 214,
+        "family_type": 1
+    },
+    {
+        "id": 54,
+        "name": "鲜卑奚氏",
+        "members": [
+            217,
+            225
+        ],
+        "government_opinion": 0,
+        "leader": 217,
+        "family_type": 1
+    },
+    {
+        "id": 55,
+        "name": "鲜卑叔孙氏",
+        "members": [
+            218
+        ],
+        "government_opinion": 0,
+        "leader": 218,
+        "family_type": 1
+    },
+    {
+        "id": 56,
+        "name": "北魏古氏",
+        "members": [
+            215
+        ],
+        "government_opinion": 0,
+        "leader": 215,
+        "family_type": 1
+    },
+    {
+        "id": 57,
+        "name": "陇西李氏",
+        "members": [
+            238,
+            247,
+            256,
+            283,
+            286,
+            305
+        ],
+        "government_opinion": 0,
+        "leader": 256,
+        "family_type": 1
+    },
+    {
+        "id": 58,
+        "name": "范阳卢氏",
+        "members": [
+            243,
+            284
+        ],
+        "government_opinion": 0,
+        "leader": 243,
+        "family_type": 1
+    },
+    {
+        "id": 59,
+        "name": "武威沮渠氏",
+        "members": [
+            307,
+            308,
+            309,
+            310
+        ],
+        "government_opinion": 0,
+        "leader": 307,
+        "family_type": 0
+    },
+    {
+        "id": 61,
+        "name": "长乐冯氏",
+        "members": [
+            313
+        ],
+        "government_opinion": 0,
+        "leader": 313,
+        "family_type": 0
+    }
+]
